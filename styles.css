@@ -3,5 +3,11 @@
 @tailwind utilities;
 
 .bg-netflix {
-  background-image: url('./assets/netflixbg.jpg')
+  background-image: url("./assets/netflixbg.jpg");
+}
+
+.bg-second {
+  background-image: url("./assets/games-lg.png");
+  background-repeat: no-repeat;
+  background-position: right top;
 }
